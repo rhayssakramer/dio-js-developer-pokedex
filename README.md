@@ -10,8 +10,7 @@ Para executar o projeto, será necessário configurar um servidor HTTP local. Es
 
 | Linguagens de Programação | Ferramentas e Tecnologias |
 | :-----------------: | :-----------------------: |
-| <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/HTML.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/CSS.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/JavaScript.svg">| <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/JQuery.svg">
- <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/VSCode-Dark.svg">
+| <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/HTML.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/CSS.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/JavaScript.svg"> | <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/JQuery.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/VSCode-Dark.svg">
 
 ## Requisitos do Projeto
 
